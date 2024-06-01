@@ -34,7 +34,53 @@
 <h4>07-homeassistant</h4>
     
 ##智能家居控制中心，买电脑的初衷就是为了运行它## 
--[homeassistant/home-assistant:latest](https://www.usememos.com/docs/install/self-hosting)
+-[homeassistant/home-assistant:latest](https://www.cnblogs.com/isit/p/17043428.html)
+
+<h4>08-sun-panel</h4>
+    
+##导航页，尝试过很多，就它最好用## 
+-[hslr/sun-panel](https://doc.sun-panel.top/zh_cn/usage/quick_deploy.html)
+
+<h4>09-homeassistant</h4>
+    
+##智能家居控制中心，买电脑的初衷就是为了运行它## 
+-[homeassistant/home-assistant:latest](https://www.cnblogs.com/isit/p/17043428.html)
+
+<h4>10-xunlei</h4>
+    
+##离线下载工具，迅雷，国内最佳## 
+-[homeassistant/home-assistant:latest](https://www.cnblogs.com/isit/p/17043428.html)
+
+<h4>11-青龙面板</h4>
+    
+##目前仅用于jd任务，其他的没有找到好项目## 
+-[homeassistant/home-assistant:latest](https://www.cnblogs.com/isit/p/17043428.html)
+
+
+<h4>12-warp-clash-api</h4>
+    
+##功能看源项目地址即可，客户端可以用NekoBox## 
+-[homeassistant/home-assistant:latest](https://www.cnblogs.com/isit/p/17043428.html)
+
+<h4>13-docker更新监控</h4>
+    
+##自动监控应用更新，方便维护容器版本## 
+-[whyour/qinglong:latest](https://www.cnblogs.com/isit/p/17043428.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
