@@ -1,9 +1,9 @@
-# docker
+# 好用的docker项目
 分享个人在用的docker项目。个人没有使用主流的NAS方案，成本较高。直接买了一台千元的微型电脑，运行Vmware虚拟机，使用centos来作为docker运行环境，目前用起来稳定性没问题。
 <h4>01-portainer</h4>
 
 ##docker管理工具## 
--[portainer/portainer-ce](https://blog.csdn.net/weixin_44649780/article/details/128401975)
+-[portainer/portainer-ce](https://docs.portainer.io/start/install-ce/server/docker/linux)
 
 <h4>02-notepad</h4>
 
