@@ -8,5 +8,5 @@
   [jdreinhardt/minimalist-web-notepad]<https://blog.mallocx.com/Docker%E9%83%A8%E7%BD%B2Minimalist-web-notepad.html#minimalist-web-notepad%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE>
     <h4>nginx-webui</h4>
 ##nginx图形化管理工具，公网开放一个端口配合域名即可承载多个服务## 
-【cym1102/nginxwebui:latest】<(https://www.nginxwebui.cn/product.html)>
+【cym1102/nginxwebui:latest】<https://www.nginxwebui.cn/product.html>
 
