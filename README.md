@@ -54,7 +54,7 @@
 <h4>11-青龙面板</h4>
     
 ##目前仅用于jd任务，还没有找到其他的好项目## 
--[hwhyour/qinglong:latest](https://www.cnblogs.com/isit/p/17043428.html)
+-[hwhyour/qinglong:latest](https://github.com/whyour/qinglong)
 
 
 <h4>12-warp-clash-api</h4>
