@@ -49,7 +49,7 @@
 <h4>10-xunlei</h4>
     
 ##离线下载工具，迅雷，国内最佳## 
--[c715aa82acdd](https://www.cnblogs.com/isit/p/17043428.html)
+-[cnk3x/xunlei:latest](https://github.com/cnk3x/xunlei)
 
 <h4>11-青龙面板</h4>
     
@@ -60,7 +60,7 @@
 <h4>12-warp-clash-api</h4>
     
 ##功能看源项目地址即可，客户端可以用NekoBox## 
--[homeassistant/home-assistant:latest](https://www.cnblogs.com/isit/p/17043428.html)
+-[warp-clash-api](https://github.com/vvbbnn00/WARP-Clash-API))
 
 <h4>13-docker更新监控</h4>
     
@@ -70,7 +70,7 @@
 <h4>14-vaultwarden</h4>
     
 ##密码管理器，私有化部署，安全好用## 
--[vaultwarden/server:latest](https://www.cnblogs.com/isit/p/17043428.html)
+-[vaultwarden/server:latest](https://github.com/dani-garcia/vaultwarden)
 
 
 
