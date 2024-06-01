@@ -44,7 +44,7 @@
 <h4>09-pihole</h4>
     
 ##dns服务器，配合dns过滤规则过滤广告。adguard也可## 
--[pihole/pihole:latest](https://www.cnblogs.com/isit/p/17043428.html)
+-[pihole/pihole:latest](https://github.com/pi-hole/docker-pi-hole/)
 
 <h4>10-xunlei</h4>
     
