@@ -16,20 +16,27 @@
 -[cym1102/nginxwebui:latest](https://www.nginxwebui.cn/product.html/)
 
 <h4>04-alist</h4>
+
 ##多种网盘挂载工具，给作者点赞## 
 -[xhofe/alist:latest](https://alist.nn.ci/zh/)
 
+
 <h4>05-ddns-g0</h4>
+
 ##动态dns工具，支持阿里云、duckdns、cloudflare等，非常全面## 
 -[jeessy/ddns-go](https://github.com/jeessy2/ddns-go?tab=readme-ov-file#docker%E4%B8%AD%E4%BD%BF%E7%94%A8/)
 
 <h4>06-memos</h4>
     
 ##个人记事本## 
--[cym1102/nginxwebui:latest](<h4>03-nginx-webui</h4>
+-[neosmemo/memos:stable](https://www.usememos.com/docs/install/self-hosting)
+
+<h4>07-homeassistant</h4>
     
-##nginx图形化管理工具，公网开放一个端口配合域名即可承载多个服务## 
--[cym1102/nginxwebui:latest]([https://www.nginxwebui.cn/product.html/)](https://www.usememos.com/docs/install/self-hosting))
+##智能家居控制中心，买电脑的初衷就是为了运行它## 
+-[homeassistant/home-assistant:latest](https://www.usememos.com/docs/install/self-hosting)
+
+
 
 
 
