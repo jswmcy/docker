@@ -13,7 +13,7 @@
 <h4>03-nginx-webui</h4>
     
 ##nginx图形化管理工具，公网开放一个端口配合域名即可承载多个服务## 
--[cym1102/nginxwebui:latest](https://www.nginxwebui.cn/product.html/)
+-[cym1102/nginxwebui:latest](https://www.nginxwebui.cn/)
 
 <h4>04-alist</h4>
 
