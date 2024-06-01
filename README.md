@@ -21,7 +21,7 @@
 -[xhofe/alist:latest](https://alist.nn.ci/zh/)
 
 
-<h4>05-ddns-g0</h4>
+<h4>05-ddns-go</h4>
 
 ##动态dns工具，支持阿里云、duckdns、cloudflare等，非常全面## 
 -[jeessy/ddns-go](https://github.com/jeessy2/ddns-go?tab=readme-ov-file#docker%E4%B8%AD%E4%BD%BF%E7%94%A8/)
@@ -44,17 +44,17 @@
 <h4>09-pihole</h4>
     
 ##dns服务器，配合dns过滤规则过滤广告。adguard也可## 
--[homeassistant/home-assistant:latest](https://www.cnblogs.com/isit/p/17043428.html)
+-[pihole/pihole:latest](https://www.cnblogs.com/isit/p/17043428.html)
 
 <h4>10-xunlei</h4>
     
 ##离线下载工具，迅雷，国内最佳## 
--[homeassistant/home-assistant:latest](https://www.cnblogs.com/isit/p/17043428.html)
+-[c715aa82acdd](https://www.cnblogs.com/isit/p/17043428.html)
 
 <h4>11-青龙面板</h4>
     
 ##目前仅用于jd任务，还没有找到其他的好项目## 
--[homeassistant/home-assistant:latest](https://www.cnblogs.com/isit/p/17043428.html)
+-[hwhyour/qinglong:latest](https://www.cnblogs.com/isit/p/17043428.html)
 
 
 <h4>12-warp-clash-api</h4>
@@ -70,7 +70,7 @@
 <h4>14-vaultwarden</h4>
     
 ##密码管理器，私有化部署，安全好用## 
--[	vaultwarden/server:latest](https://www.cnblogs.com/isit/p/17043428.html)
+-[vaultwarden/server:latest](https://www.cnblogs.com/isit/p/17043428.html)
 
 
 
